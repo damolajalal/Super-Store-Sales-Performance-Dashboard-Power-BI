@@ -1,112 +1,116 @@
-# Super-Store-Sales-Performance-Dashboard-Power-BI
-A modern, insight-driven Power BI dashboard analyzing sales, profit, customer behavior, and product performance for a simulated retail Super Store. This project demonstrates my ability to transform raw data into clear, actionable insights using professional BI design principles.
-🌟 Project Highlights
+Retail Superstore Performance Analytics | Power BI Case Study
 
-Interactive multi-page Power BI report
+Business Intelligence | Profitability Analysis | Executive Decision Support
 
-Executive-level KPIs & trend analysis
+Project Overview
 
-Detailed profit margin and discount behavior study
+Retail leaders often have access to large volumes of data but lack decision-ready insights. This project demonstrates how raw retail transaction data was transformed into an executive Power BI dashboard that supports profitability, demand planning, and customer strategy decisions.
 
-Customer segmentation & product-level insights
+Business Problems Solved and Impact
 
-Clean and intuitive visual storytelling
+Enabled Executive Visibility into Business Performance
+Leadership lacked a single, trusted view of sales, profit, and customer value.
 
-📈 1. Sales Performance Overview
-🔹 Key KPIs
+Solution:
+Built an interactive KPI dashboard consolidating revenue, profit, orders, and customer metrics into one source of truth.
 
-Total Sales: $2.3M
+Impact:
 
-Total Profit: $286.4K
+Faster executive decision-making
 
-Avg. Sales per Customer: $2.9K
+Clear, consistent performance monitoring
 
-Total Orders: 5,009
+Improved Demand Planning Through Seasonality Insights
+Unclear demand patterns increased the risk of stockouts during peak periods and excess inventory during low-demand months.
 
-These metrics provide a strong snapshot of overall business health.
+Solution:
+Analyzed sales and profit trends over time, revealing strong seasonality with peak demand in Q4 (November–December).
 
-📅 Sales & Profit Trends
+Impact:
 
-Sales follow a clear seasonal pattern:
+Proactive inventory and staffing planning
 
-Slow start in January–February
+Reduced operational risk during high-demand periods
 
-Gradual climb in March–April
+Optimized Customer Strategy Using Profit-Based Segmentation
+Marketing efforts were not aligned to actual profit contribution across customer segments.
 
-Major peak in November–December
+Solution:
+Segmented customers by profit contribution rather than revenue alone:
 
-This indicates strong Q4 holiday-driven demand, a critical planning insight for inventory and staffing.
+Consumer: $134K profit
 
-👥 Customer Segment Profitability
+Corporate: $92K profit
 
-Consumer: $134K (highest)
+Home Office: $60K profit
 
-Corporate: $92K
+Impact:
 
-Home Office: $60K
+Focused growth strategies on the highest-return segments
 
-The Consumer segment drives most profit, while Corporate provides a stable, diversified revenue line.
+Improved marketing ROI and customer targeting
 
-📦 2. Product Category Performance
-🛒 Sales by Segment & Category
+Identified Hidden Margin Leakage at Product Level
+High sales volume masked loss-making products, eroding profitability.
 
-Technology leads in Consumer sales
+Solution:
+Conducted product and sub-category margin analysis:
 
-Corporate & Home Office show balanced demand across all major categories
+High-margin categories (Labels, Paper) up to 44.42%
 
-💰 Profit Margin Analysis
+Negative-margin products as low as –8.56%
 
-High performers:
+Impact:
 
-Labels & Paper have profit margins reaching 44.42%
+Enabled corrective pricing and sourcing decisions
 
-Underperformers:
+Protected profit without chasing additional revenue
 
-Several sub-categories fall into negative margins (as low as -8.56%), signaling problems with pricing, sourcing, or discounting.
+Strengthened Pricing and Discount Governance
+Discounting activity lacked visibility, risking unnecessary margin erosion.
 
-🔻 Discount Behavior
+Solution:
+Analyzed discount behavior across product categories, confirming tightly controlled discount rates below 0.0010.
 
-Office Supplies absorbs the most total discounts
+Impact:
 
-Technology receives the least discounting
+Validated pricing discipline
 
-Overall rates remain extremely low (<0.0010), showing that discounting is minimal or tightly controlled
+Identified opportunities for targeted promotional testing
 
-🏆 Top-Selling Product
+Identified Revenue-Driving Products
+Top-performing SKUs were not clearly defined for scaling and promotion.
 
-Canon Image series dominates with $61.6K in sales
+Solution:
+Ranked products by sales performance, identifying the Canon Image Series as the top seller at $61.6K.
 
-🧭 Strategic Insights
-✔ Strengthen High-Margin Categories
+Impact:
 
-Continue leveraging profitable categories like Labels and Paper.
+Informed inventory prioritization and upsell strategies
 
-✔ Investigate Negative-Margin Products
+Supported supplier and marketing alignment
 
-Review pricing, vendor contracts, and discount policies for loss-making sub-categories.
+Key Business Outcomes
 
-✔ Optimize for Q4 Demand
+Improved profitability visibility
 
-Increase inventory and logistics capacity leading up to the November–December sales surge.
+Better demand forecasting and planning
 
-✔ Targeted Customer Strategies
+More efficient customer and marketing strategy
 
-Focus marketing on Consumer–Technology combinations
+Reduced margin leakage
 
-Explore B2B opportunities within the Corporate segment
+Stronger executive decision support
 
-🛠️ Skills Demonstrated
+Tools and Skills
 
 Power BI dashboard development
-
 DAX calculations
 
-Data modeling & relationships
+Data modeling and relationships
 
-KPI creation
+KPI design
 
-Visual storytelling
+Executive-level visual storytelling
 
-Business performance analysis
-
-Profitability deep dives
+Retail performance and profitability analysis
